@@ -1,5 +1,5 @@
-API Data Retrival
-<br> 
-THIS DIRECTORY CONSISTS OF TWEET DATA GATHERED USING TWEEPY API 
+# API Data Retrival
+
+This directory consists of tweet data gathered using tweepy API 
 
 
