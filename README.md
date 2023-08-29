@@ -1,1 +1,2 @@
-# StockForecasting_SentimentAnalysis
+# Stock Forecasting and Sentiment Analysis
+
