@@ -22,6 +22,6 @@ for tweet in tweepy.Cursor(api.search_tweets, q="Infosys stocks", count=100, lan
     df=df.append(df_temp, ignore_index = True)
 print(df)
 
-df.to_csv('Infosys.csv')
+df.to_csv('INFY_stock.csv')
 
 
