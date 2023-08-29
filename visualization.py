@@ -7,8 +7,8 @@ from datetime import datetime
 sns.set_style('whitegrid')
 plt.style.use("fivethirtyeight")
 
-company_list = ['aapl','ibm', 'goog']
-c_name=["APPLE", "IBM", "GOOGLE"]
+company_list = ['aapl','infy', 'tcs']
+c_name=["APPLE", "INFOSYS", "TCS"]
 company=pd.read_csv('data.csv')
 
 # Adj Close
