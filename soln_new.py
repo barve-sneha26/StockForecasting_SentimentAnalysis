@@ -272,9 +272,9 @@ def senti_graph():
     # e5.insert(0, c)
 
     # pie chart
-    labels = 'Possitive', 'Negative'
+    labels = 'Positive', 'Negative'
     sizes = [a, b]
-    explode = (0.1, 0)  # only "explode" the 2nd slice (i.e. 'possitive')
+    explode = (0.1, 0)  # only "explode" the 2nd slice (i.e. 'positive')
 
     fig1, ax1 = plt.subplots()
     ax1.pie(sizes, explode=explode, labels=labels, autopct='%1.1f%%',
